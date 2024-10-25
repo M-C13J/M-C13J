@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👨‍🎓 I am currently a MSc CyberSecurity Student at Surrey, who has a keen passion in creating secure software.
+🎮 Also, I am a very keen game developer, having developed ROBLOX games in the past.
+🗺️ Oh yeah, and sometimes I like to make websites.
+✨ One day, I aspire to be a Security consultant at a top firm.
+
 <!--
 **M-C13J/M-C13J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
